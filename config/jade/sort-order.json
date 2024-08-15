@@ -49,5 +49,6 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:zombie_villager": null,
+  "treechop:plugin": null,
   "waystones:waystone": null
 }
