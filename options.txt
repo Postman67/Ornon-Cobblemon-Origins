@@ -132,7 +132,7 @@ key_key.configured.open_mod_list:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.origins.ternary_active:key.keyboard.j
+key_key.origins.ternary_active:key.keyboard.unknown
 key_key.origins.quaternary_active:key.keyboard.unknown
 key_key.origins.quinary_active:key.keyboard.unknown
 key_key.origins.senary_active:key.keyboard.unknown
