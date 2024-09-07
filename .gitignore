@@ -72,3 +72,4 @@ config/indium-renderer.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+config/corgilib/announcement_store.json
