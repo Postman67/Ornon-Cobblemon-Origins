@@ -156,7 +156,7 @@ key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.toggle_felling:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
-key_treechop.key.open_settings_overlay:key.keyboard.n
+key_treechop.key.open_settings_overlay:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
